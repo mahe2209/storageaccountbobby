@@ -1,0 +1,12 @@
+az ad sp create-for-rbac --name storagebobby --role owner --scopes /subscriptions/f8c21577-3fbf-4cc4-8289-016b002378cd --sdk-authpo
+
+"clientId": "908c75f5-956b-4d0b-a0f7-980115f6aea5",
+  "clientSecret": "AHJ8Q~uSsjc_lVBhDCxiXbs4FkYcqUV_Hcps6aVV",
+  "subscriptionId": "f8c21577-3fbf-4cc4-8289-016b002378cd",
+  "tenantId": "f20bd6c9-b45a-4c14-8085-64f2ab25bd1b",
+  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+  "resourceManagerEndpointUrl": "https://management.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://gallery.azure.com/",
+  "managementEndpointUrl": "https://management.core.windows.net/"
